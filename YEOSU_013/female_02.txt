@@ -1,0 +1,8 @@
+Generated video:
+[Character] Top row: The character has chin-length curly dark-brown hair, black rectangular glasses, and bright magenta lips. The character wears a glossy hot-pink diamond-quilted jacket over a navy, white, and red striped collared shirt, and white straight pants, smiling cheerfully with an open mouth.
+[Background] Bottom row: A large white arched canopy supported by green steel truss frames stands on a pale-gray stone-paved plaza. Green trees and distant hillside buildings sit behind the plaza under a clear blue sky with a white cloud on the left.
+[Prop] A thick hot-pink velvet headband sits across the character's curly hair above the forehead.
+[Action] Standing on the paved plaza, 문지혜 turns slightly toward the front with a bright, relaxed smile, and speaks aloud in a bright, joyful Korean voice, saying "워매, 넓어서 속이 뻥 뚫리네."
+[Camera] A static, eye-level medium close-up frames 문지혜 on the right side, with the white arched canopy in the background.
+[Lighting] Bright natural sunlight comes from high above with short crisp shadows, giving the pale-gray plaza, green frames, and clear blue sky a fresh, joyful mood.
+[Style] Photorealistic live-action video of a real person in a photorealistic environment with natural rendering, high-quality detail, and sharp focus, where 문지혜's face, outfit, and colors stay identical from the first frame to the last. The result is a clean, text-free single full-screen scene where the spoken line is heard only as voice.
